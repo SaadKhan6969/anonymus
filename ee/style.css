@@ -1,0 +1,42 @@
+*{
+    font-family: 'Silkscreen', cursive;
+}
+
+.parent{
+    width: 100vw;
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+
+}
+.red{
+    background-image: url("corolla pics/DSC01651.JPG");
+    background-position: center;
+    background-attachment: fixed;
+    width: 100vw;
+    height: 100vh;
+    background-repeat: no-repeat;
+}
+.oo{
+    background-image: url("corolla pics/DSC01647.JPG");
+    background-position: center;
+    background-attachment: fixed;
+    width: 100vw;
+    height: 100vh;
+    background-repeat: no-repeat;
+}
+.pp{
+    background-image: url("corolla pics/DSC01663.JPG");
+    background-position: center;
+    background-attachment: fixed;
+    width: 100vw;
+    height: 100vh;
+    background-repeat: no-repeat;
+}
+h1{
+    background-color: brown;
+    color: white;
+    text-align: center;
+}
